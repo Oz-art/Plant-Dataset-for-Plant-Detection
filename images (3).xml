@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>plant-dataset-resized</folder>
+	<filename>images (3).jpg</filename>
+	<path>E:\forbidden to click\Magang DDS\plant-dataset-resized\images (3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>601</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>31</ymin>
+			<xmax>388</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>green lettuce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>30</ymin>
+			<xmax>783</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>
